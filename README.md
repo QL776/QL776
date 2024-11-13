@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+# A student at GDUT
+- Tool I use : `Hadoop`,`Hive`,`Python`,`Java`
 <!--
 **QL776/QL776** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
