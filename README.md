@@ -4,7 +4,7 @@
 - ​**Undergraduate Student**​ in Big Data Management and Application  
   🏫 ​**GDUT**​ (Guangdong University of Technology)  
 - ​**Data Engineering Intern**​  
-  ⚡ ​**FWD CTC**​ | Working on distributed systems and data pipelines  
+  ⚡ ​**FWD CTC**​ | Working as a data engineer
 
 ---
 
