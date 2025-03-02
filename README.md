@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm QX
 
 ## 🎓 Education & Career
 - ​**Undergraduate Student**​ in Big Data Management and Application  
@@ -19,11 +19,4 @@
 ![Spark](https://img.shields.io/badge/Spark-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-%23232F3E.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
 
----
 
-## 📫 Let's Connect
-<div align="center">
-  <a href="mailto:xie.qilu@qq.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</div>
