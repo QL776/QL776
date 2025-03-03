@@ -1,5 +1,5 @@
 # 👋 Hi, I'm QX
-
+天南地北，问乾坤，何处可容狂客？
 ## 🎓 Education & Career
 - ​**Undergraduate Student**​ in Big Data Management and Application  
   🏫 ​**GDUT**​ (Guangdong University of Technology)  
