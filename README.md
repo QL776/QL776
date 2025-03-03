@@ -19,13 +19,3 @@
 ![Spark](https://img.shields.io/badge/Spark-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-%23232F3E.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-
-## 🌍 生活轨迹
-```diff
-+ 当前坐标：广州
-! 旅行足迹：北京·安徽·海南·湖南·深圳
-```
-
-▰▰▰▰▰▰▰▰▰▰ 小说 75%
-▰▰▰▰▰▰▱▱▱▱ 技术文档 60% 
-▰▰▰▰▱▱▱▱▱▱ 旅游指南 40%
