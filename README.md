@@ -31,6 +31,4 @@
 
 ***
 
-这样既突出你的理工、供应链/数据分析背景，也展示了文创与 IP 运营跨界经验，让雇主和合作者看到你的多面性与创新潜力。[1]
 
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/137703596/ca0d5fee-2e78-4434-94f6-71e597475913/image.jpg)
