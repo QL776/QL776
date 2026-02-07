@@ -5,22 +5,6 @@
 # 👋 Hi, I'm QX
 天南地北，问乾坤，何处可容狂客？
 
-## 🌏 About Me
-- From China, currently living in Germany (Nuremberg)
-- M.Sc. student in International Information Systems  
-  at FAU Erlangen-Nürnberg, Germany
-- Passionate about travel, cross-cultural communication, and exploring new perspectives
-
-## 🎓 Education & Experience
-- **M.Sc. International Information Systems**  
-  🎓 FAU Erlangen-Nürnberg (Germany)
-- **B.Sc. Big Data Management and Application**  
-  🏫 GDUT (Guangdong University of Technology, China)
-- **IP Marketing Intern**  
-  💡 Starrymaster
-- **Data Engineering Intern**  
-  ⚡ FWD CTC  
-- Experienced in industrial engineering, logistics & supply chain analytics
 
 ## 🛠️ Tech Stack
 
